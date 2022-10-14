@@ -9,6 +9,6 @@
 ```
 npm install -g ionic cordova
 npm install
-ionic start
+ionic serve
 ```
 
